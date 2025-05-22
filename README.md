@@ -92,8 +92,11 @@ Based on this data, the program searches a predefined dataset and lists of colle
 ```bash
 git clone https://github.com/deepikagandla7456/College-Predictor-Based-on-Rank.git
 cd College-Predictor-Based-on-Rank
+```
 2. Compile and Run the following command to start the application
+
 Compile the code
+
 ```shell
  gcc main.c -o main
 ```
