@@ -22,7 +22,7 @@ Whether you're aiming for a top engineering college or want to explore your opti
 Start planning your college future with confidence!
 </p>
 <p align="center">
-<i>Just enter your rank, category, and preferences—and get a list of possible colleges.</i>
+<i>Just enter your rank,gender and category—and get a list of possible colleges.</i>
 </p>
 
 ---
