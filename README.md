@@ -1,10 +1,13 @@
 # [College Predictor Based on Rank](college-predictor-based-on-rank)
 ***
 
-[![GitHub license](https://img.shields.io/github/license/deepikagandla7456/College-Predictor-Based-on-rRank)](LICENSE)
+[![GitHub license](https://img.shields.io/github/license/deepikagandla7456/College-Predictor-Based-on-Rank)](LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/deepikagandla7456/College-Predictor-Based-on-Rank)]()
 [![GitHub contributors](https://img.shields.io/github/contributors/deepikagandla7456/College-Predictor-Based-on-Rank)]()
 [![GitHub last-commit](https://img.shields.io/github/last-commit/deepikagandla7456/College-Predictor-Based-on-Rank)]()
+
+
+
 
 
 
