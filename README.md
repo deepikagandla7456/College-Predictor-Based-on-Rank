@@ -93,16 +93,19 @@ Based on this data, the program searches a predefined dataset and lists of colle
 git clone https://github.com/deepikagandla7456/College-Predictor-Based-on-Rank.git
 cd College-Predictor-Based-on-Rank
 ```
-2. Compile and Run the following command to start the application
-
-Compile the code
+2. Compile the following command to start the application
 
 ```shell
  gcc main.c -o main
 ```
+##Usage
+
 To run the program
 ```shell
 ./main
 ```
+##Screenshots
 
 
+##License
+This project is licensed under the [Apache License 2.0](LICENSE) - see the [LICENSE](LICENSE) file for details.
