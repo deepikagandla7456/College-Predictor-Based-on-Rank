@@ -1,0 +1,29 @@
+College Name,Branch,Category,Gender,Rank Cutoff
+JNTU Hyderabad,CSE,OC,Male,5000
+JNTU Hyderabad,ECE,OC,Female,6000
+JNTU Hyderabad,IT,BC-A,Male,7000
+OU College of Engineering,CSE,SC,Female,8000
+OU College of Engineering,ECE,ST,Male,9000
+OU College of Engineering,MECH,OC,Female,8500
+CBIT Hyderabad,CSE,OC,Female,10000
+CBIT Hyderabad,ECE,BC-B,Male,11000
+CBIT Hyderabad,CIVIL,SC,Female,12000
+VNR VJIET,CSE,OC,Male,8500
+VNR VJIET,ECE,BC-D,Female,11500
+VNR VJIET,EEE,ST,Male,13000
+Gokaraju Rangaraju Inst of Engg and Tech,CSE,BC-B,Female,9500
+Gokaraju Rangaraju Inst of Engg and Tech,ECE,OC,Male,11000
+Gokaraju Rangaraju Inst of Engg and Tech,IT,SC,Female,10500
+MGIT,CSE,OC,Female,10000
+MGIT,ECE,BC-C,Male,12000
+MGIT,CIVIL,ST,Female,14000
+Vasavi College of Engineering,CSE,OC,Male,7500
+Vasavi College of Engineering,ECE,BC-D,Female,9500
+Vasavi College of Engineering,EEE,SC,Male,11000
+Malla Reddy College of Engineering,CSE,OC,Female,12000
+Malla Reddy College of Engineering,ECE,BC-A,Male,13500
+Malla Reddy College of Engineering,IT,BC-B,Female,12500
+CMR College of Engineering and Technology,CSE,SC,Male,13000
+CMR College of Engineering and Technology,ECE,OC,Female,14000
+CMR College of Engineering and Technology,CIVIL,ST,Female,16000
+  
