@@ -110,6 +110,7 @@ To run the program
 ![Image](https://github.com/user-attachments/assets/70a6ada6-f0b6-43d2-97a8-193a4e31ff57)
 
 **Predicted Results**
+![Image](https://github.com/user-attachments/assets/bd8fd8e5-c4e0-4b4b-8ccd-4764388bc6a7)
 
 
 ## License
