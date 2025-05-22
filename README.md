@@ -16,7 +16,7 @@ Whether you're aiming for a top engineering college or want to explore your opti
 ---
 
 ## Sample:
-*You can add screenshots or a short video demo of the program here.*
+
 
 <p align="center">
 Start planning your college future with confidence!
