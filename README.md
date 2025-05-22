@@ -107,6 +107,7 @@ To run the program
 
 ## Screenshots
 **User Input Screen**
+![Image](https://github.com/user-attachments/assets/70a6ada6-f0b6-43d2-97a8-193a4e31ff57)
 
 **Predicted Results**
 
