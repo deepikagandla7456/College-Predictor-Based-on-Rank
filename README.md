@@ -6,11 +6,6 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/deepikagandla7456/College-Predictor-Based-on-Rank)]()
 [![GitHub last-commit](https://img.shields.io/github/last-commit/deepikagandla7456/College-Predictor-Based-on-Rank)]()
 
-
-
-
-
-
 ### Wondering which college you might get into with your EAMCET rank?  
 **College Predictor Based on Rank** is a simple command-line tool built using C that helps you predict the possible colleges and branches you might get admission into—based on your EAMCET rank, gender, and reservation category.
 
@@ -101,13 +96,19 @@ cd College-Predictor-Based-on-Rank
 ```shell
  gcc main.c -o main
 ```
-##Usage
+
+
+## Usage
 
 To run the program
 ```shell
 ./main
 ```
+
 ## Screenshots
+**User Input Screen**
+
+**Predicted Results**
 
 
 ## License
