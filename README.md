@@ -94,10 +94,12 @@ git clone https://github.com/deepikagandla7456/College-Predictor-Based-on-Rank.g
 cd College-Predictor-Based-on-Rank
 2. Compile and Run the following command to start the application
 Compile the code
-``` gcc main.c -o main
+```shell
+ gcc main.c -o main
 ```
 To run the program
-```./main
+```shell
+./main
 ```
 
 
