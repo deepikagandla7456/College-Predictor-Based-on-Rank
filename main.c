@@ -66,8 +66,7 @@ int main()
         {
             printf("%s - %s (Cutoff Rank: %d)\n",
                    colleges[i].name,
-                   colleges[i].branch,
-                   colleges[i].rank_cutoff);
+                   colleges[i].branch);
             found = 1;
         }
     }
