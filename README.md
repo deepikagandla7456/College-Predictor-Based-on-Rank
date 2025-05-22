@@ -104,8 +104,8 @@ To run the program
 ```shell
 ./main
 ```
-##Screenshots
+## Screenshots
 
 
-##License
+## License
 This project is licensed under the [Apache License 2.0](LICENSE) - see the [LICENSE](LICENSE) file for details.
