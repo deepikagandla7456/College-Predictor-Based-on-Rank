@@ -13,9 +13,6 @@ Whether you're aiming for a top engineering college or want to explore your opti
 
 ---
 
-## Sample:
-
-
 <p align="center">
 Start planning your college future with confidence!
 </p>
