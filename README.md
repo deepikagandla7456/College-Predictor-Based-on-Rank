@@ -1,4 +1,4 @@
-# [College Predictor Based on Rank](college-predictor-based-on-rank)
+# [College Predictor Based on Rank](#college-predictor-based-on-rank)
 ***
 
 [![GitHub license](https://img.shields.io/github/license/deepikagandla7456/College-Predictor-Based-on-Rank)](LICENSE)
