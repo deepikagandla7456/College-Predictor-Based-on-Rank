@@ -11,7 +11,6 @@
 
 Whether you're aiming for a top engineering college or want to explore your options, this tool gives you a quick idea of where you stand.
 
----
 
 <p align="center">
 Start planning your college future with confidence!
